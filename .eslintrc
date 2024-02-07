@@ -5,5 +5,10 @@
 		"process": true,
 		"wp": true,
 		"lodash": true
+	},
+	"rules": {
+		"no-nonoctal-decimal-escape": 0,
+		"no-unsafe-optional-chaining": 0,
+		"security/detect-object-injection": 0
 	}
 }
