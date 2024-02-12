@@ -7,6 +7,7 @@
 		"lodash": true
 	},
 	"rules": {
+		"no-constant-binary-expression": 0,
 		"no-nonoctal-decimal-escape": 0,
 		"no-unsafe-optional-chaining": 0,
 		"security/detect-object-injection": 0
